@@ -1,0 +1,106 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* navbar started */
+.logo{
+    width: 165px;
+    margin-left: -70px;
+}
+.nav-text{
+    font-size: 15px;
+    font-weight: 300;
+   
+}
+.franchise{
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 17px 15px;
+    border-radius: 25px;
+    margin-right: -15px;
+}
+.order-btn{
+    background-color: #ed1c24;
+    color: #ffffff;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 25px;
+    margin-right: -50px;
+}
+.arrow-icon{
+    color: #ed1c24;
+    background-color: #ffffff;
+    padding: 5px 5px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+/* navbar ended */
+
+/* container started */
+.container-img{
+    width: 100%;
+}
+.heading{
+        margin-top: 45px;
+        font-size: 3.5rem;
+        font-weight: 300;
+}
+p{
+    font-size: 1.5rem;
+}
+.i{
+    background-color: #ffffff;
+    margin-top: 30px;
+    padding: 23px 5px;
+}
+.odr-btn{
+    background-color: transparent;
+    color: #ffffff;
+    border: 0.1px solid #ffffff;
+    border-radius: 40px;
+    padding: 15px 43px;
+    margin: 0px 69px;
+   margin-top: 25px;
+
+}
+.heading2{
+
+    font-size:4.5rem;
+    margin-top: 250px;
+}
+.city-name{
+    margin: 80px;
+}
+.franchise1{
+    margin-top: 5px;
+    font-size: 3rem;
+    font-weight: 300;
+    margin-bottom: 15px;
+}
+.location-icon{
+     background-color: transparent;
+    color: #ffffff;
+    border: none;
+    margin: 5px;
+}
+.phone-icon{
+    background-color: transparent;
+    color: #ffffff;
+    border: none;
+    margin: 5px;
+}
+.direction{
+    background-color: transparent;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 13px 25px;
+    border-radius: 40px;
+    margin-top: 40px;
+}
+.f-image{
+    margin-left: 630px;
+    margin-top: -500px ;
+}
