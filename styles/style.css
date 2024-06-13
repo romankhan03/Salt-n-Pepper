@@ -7,28 +7,32 @@ a{
 /* navbar started */
 .logo{
     width: 165px;
-    margin-left: -70px;
+    margin-left:-110px
 }
 .nav-text{
-    font-size: 15px;
+    font-size: 1.8rem;
     font-weight: 300;
-   
+    margin-top: 10px;
 }
 .franchise{
     background-color: transparent;
     color: #ffffff;
     border: 1px solid #ffffff;
-    padding: 17px 15px;
-    border-radius: 25px;
+    padding: 20px 18px;
+    border-radius: 35px;
     margin-right: -15px;
+    margin-top: 3px;
+    font-size: 1.5rem;
 }
 .order-btn{
     background-color: #ed1c24;
     color: #ffffff;
     border: none;
-    padding: 15px 20px;
-    border-radius: 25px;
-    margin-right: -50px;
+    padding: 17px 18px;
+    border-radius: 45px;
+    margin-right: -100px;
+    margin-top:3px;
+    font-size: 1.6rem;
 }
 .arrow-icon{
     color: #ed1c24;
@@ -42,6 +46,7 @@ a{
 /* section 2 started */
 .container-img{
     width: 100%;
+    margin-top: 10px;
 }
 /* section 2 ended */
  /* section 3 started  */
@@ -57,15 +62,26 @@ p{
     background-color: #ffffff;
     margin-top: 30px;
     padding: 23px 5px;
+    border-radius: 3px;
 }
-.odr-btn{
+.btn{
     background-color: transparent;
     color: #ffffff;
     border: 0.1px solid #ffffff;
     border-radius: 40px;
-    padding: 15px 43px;
-    margin: 0px 69px;
-   margin-top: 25px;
+    margin: 0px 55px;
+   margin-top: 27px;
+   font-size: 1.5rem;
+}
+.btn1{
+    padding: 20px 63px;
+}
+.btn2{
+    padding:20px 63px;
+}
+.btn3{
+    padding: 20px 50px;
+    
 }
 /* section 3 ended */
 /* Restaurant Franchise section started */
@@ -163,3 +179,31 @@ p{
     font-weight: 300;
 }
 /* Express Franchise ended */
+
+/* Village Franchise started */
+.text-box{
+         margin-top: 112px;
+         margin-left: 35px;
+}
+.name{
+    margin-top: 139px;
+    margin-left:-139px;
+}
+.address{
+        margin-left: -300px;
+        margin-top: 10px;
+}
+.phone{
+    margin-left: -500px;
+    margin-top: 75px;
+}
+.direction2{
+    background-color:#28a745;
+    border: none;
+    margin-top: 300px;
+    margin-left: -240px;
+}    
+.arrow-icon2{
+    color: #28a745;
+}
+/* Village Franchise ended */
