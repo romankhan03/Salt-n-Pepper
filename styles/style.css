@@ -39,10 +39,12 @@ a{
 }
 /* navbar ended */
 
-/* container started */
+/* section 2 started */
 .container-img{
     width: 100%;
 }
+/* section 2 ended */
+ /* section 3 started  */
 .heading{
         margin-top: 45px;
         font-size: 3.5rem;
@@ -64,8 +66,9 @@ p{
     padding: 15px 43px;
     margin: 0px 69px;
    margin-top: 25px;
-
 }
+/* section 3 ended */
+/* Restaurant Franchise section started */
 .heading2{
 
     font-size:4.5rem;
@@ -104,3 +107,59 @@ p{
     margin-left: 630px;
     margin-top: -500px ;
 }
+.f2-image{
+    margin-left: 60px;
+    margin-top: 50px;
+}
+.city2{
+    margin-left: 650px;
+    margin-top: -305px;
+}
+.franchise2{
+    margin-top: 5px;
+    font-size: 3rem;
+    font-weight: 300;
+}
+.location-icon2{
+    background-color: transparent;
+    color: #ffffff;
+    border: none;
+    margin-top: 25px;
+    margin-right: 5px;   
+}
+.phone-icon2{
+    background-color: transparent;
+    color: #ffffff;
+    border: none;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+.city3{
+    margin-top:120px;
+    margin-left: 70px;
+}
+.franchise3{
+    font-size: 3rem;
+    font-weight: 300;
+    margin-top: 5px;
+}
+.f3-image{
+   margin-top: -250px;
+   margin-left: 630px;  
+}
+/* Restaurant Franchise section ended */
+/* Express Franchises started */
+.heading3{
+    margin-top: 130px;
+    font-size: 4.5rem;
+}
+.icon{
+     background-color: transparent;
+     color: #ffffff;
+     border: none;
+}
+.font{
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+/* Express Franchise ended */

@@ -7,7 +7,7 @@ html{
     font-size: 62.5%;
     font-family: "Poppins", sans-serif;
     font-weight: lighter;
-    height: 2500px;
+    height: 8000px;
 }
 
 /* utility classes */
@@ -51,7 +51,9 @@ html{
 .d-inline{
     display: inline-block;
 }
-
+.d-block{
+    display: block;
+}
 /* flex classes ended */
 
 /* margin classes started */
@@ -89,13 +91,93 @@ html{
 .mt6{
     margin-top: 30px;
 }
-
+.mt7{
+    margin-top: 35px;
+}
+.mt8{
+    margin-top: 40px;
+}
+.mt9{
+    margin-top: 50px;
+}
+.mt10{
+    margin-top: 60px;
+} 
+.mt11{
+    margin-top: 70px;
+}
+.mt12{
+    margin-top: 90px;
+}
+.mt13{
+    margin-top: 100px;
+}
+.mt{
+    margin-top:200px;
+}
 .mx1{
     margin: 0px 5px;
 }
 
 .my-{
     margin: 5px 0px;
+}
+.ml{
+    margin-left: 20px;
+}
+.ml1{
+    margin-left: 5px;
+}
+.ml2{
+    margin-left:10px ;
+}
+.ml3{
+    margin-left: 15px;
+}
+.ml4{ 
+    margin-left: 25px;
+}
+.ml5{
+    margin-left: 30px;
+}
+.ml6{
+    margin-left: 40px;
+}
+.ml7{
+    margin-left: 45px;
+}
+.ml8{
+    margin-left: 55px;
+}
+.ml9{
+    margin-left: 65px;
+}
+.ml10{
+    margin-left: 75px;
+}
+.ml11{
+    margin-left: 85px;
+}
+.ml12{
+    margin-left: 100px;
+}
+.ml13{
+    margin-left: 125px;
+}
+.ml14{
+    margin-left: 150px;
+}
+.ml15{
+    margin-left: 175px;
+}
+.ml16{
+    margin-left: 200px;
+}
+.mr1{
+    margin-right: 2px;
+}
+.mr2{
+    margin-right: 5px;
 }
 /* margin classes ended */
 
@@ -159,4 +241,13 @@ html{
 }
 .text-red{
     color: #ff0000;
+}
+.bn{
+    border: none;
+}
+.tn{
+    text-decoration: none;
+}
+.fw{
+    font-weight: lighter;
 }
