@@ -57,6 +57,7 @@ a{
 }
 p{
     font-size: 1.5rem;
+    font-weight:70;
 }
 .i{
     background-color: #ffffff;
@@ -207,3 +208,82 @@ p{
     color: #28a745;
 }
 /* Village Franchise ended */
+/* Salt n Pepper opening soon franchises started  */
+.ef{
+    margin-top: 190px;
+    margin-left: -460px;
+    font-size: 4.5rem;
+}
+.opening{
+     margin-top: 216px;
+     margin-right:-170px;
+}
+.box{
+    width: 340px ;
+    height: 250px;
+    background-color: #ffffff;
+    color:#ff0000;
+    border-radius: 5px;
+
+}
+.name2{
+    font-weight: 500;
+    font-size: 2.3rem;
+}
+.p2{
+    font-weight: 550;
+    font-size: 2rem;
+    margin-top: -5px;
+}
+.c1{
+    font-weight: 550;
+    font-size: 1.7rem;
+    margin-top: -5px;
+}
+/* Salt n Pepper opening soon franchises ended */
+/* Last section started */
+.container1{
+          width: 400px;
+          height: 300px;
+          border: 1px solid transparent;
+          background-color: transparent;
+          margin-top: 30px;
+          margin-left: 140px;
+}
+.container2{
+       width: 200px;
+       height: 300px;
+       border: 1px solid transparent;
+       background-color: transparent;
+       margin-top: -70px;
+       margin-left: 20px;
+}
+.container3{
+    width: 280px;
+    height: 300px;
+    border: 1px solid transparent;
+    background-color: transparent;
+    margin-top: -74px;
+    margin-left: 40px;
+}
+.container4{
+    width: 200px;
+    height: 300px;
+    border: 1px solid transparent;
+    background-color: transparent;
+    margin-top: -82px;
+    margin-left: 20px;
+}
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #ff0000; 
+    color: #000000; 
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 9999;
+    text-decoration: none;
+}
+/* Last section ended */
+

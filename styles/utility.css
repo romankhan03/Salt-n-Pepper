@@ -7,7 +7,9 @@ html{
     font-size: 62.5%;
     font-family: "Poppins", sans-serif;
     font-weight: lighter;
-    height: 8000px;
+    height: 7000px;
+    min-width: 50px;
+    min-height: 50px;
 }
 
 /* utility classes */
@@ -17,6 +19,9 @@ html{
 
 .d-flex{
     display: flex;
+}
+.d-coloumn{
+    flex-direction: column;
 }
 .flex-wrap{
     flex-wrap: wrap;
@@ -133,6 +138,18 @@ html{
 }
 .mt13{
     margin-top: 100px;
+}
+.mt14{
+    margin-top: 110px;
+}
+.mt15{
+    margin-top: 120px;
+}
+.mt16{
+    margin-top: 140px;
+}
+.mt17{
+    margin-top: 170px;
 }
 .mt{
     margin-top:200px;
@@ -311,4 +328,13 @@ html{
 }
 .fw{
     font-weight: lighter;
+}
+.black{
+    color: #000000;
+}
+.fz{
+    font-size: 1.5rem;
+}
+.bg-red{
+    background-color: red;
 }
